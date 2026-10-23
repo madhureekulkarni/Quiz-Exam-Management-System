@@ -1,0 +1,1 @@
+Place the MySQL Connector/J .jar file in this folder when you can access a development environment.
